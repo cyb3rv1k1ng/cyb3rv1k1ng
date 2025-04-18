@@ -25,8 +25,6 @@ I'm a Cybersecurity Enthusiast  focused on Defensive Cybersecurity! <img src="ht
 
 - :telescope: I’m a Cybersecurity Intern focused on monitoring, investigating, and defending systems from threats in real time.
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
 - 📊 I'm building hands-on projects around:
   - SOC automation using Python 🐍
   - Log parsing & detection rules using SQL 🔍
