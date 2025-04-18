@@ -32,8 +32,6 @@ I'm a Cybersecurity Enthusiast  focused on Defensive Cybersecurity! <img src="ht
   - Log parsing & detection rules using SQL 🔍
   - SIEM use cases (Splunk, ELK)
   - Packet Tracer network security labs (firewall, VLANs, ACLs) 🖧
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-cyb3rv1k1ng-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/warmann-onisowurun)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
